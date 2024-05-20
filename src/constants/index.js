@@ -1,5 +1,4 @@
-import React from 'react';
-import { people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star } from "../assets";
+import { people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star  } from "../assets";
 
 export const navLinks = [
   {
@@ -33,7 +32,7 @@ export const features = [
     icon: shield,
     title: "100% Secured",
     content:
-      "We take proactive steps to make sure your information and transactions are secure.",
+      "We take proactive steps make sure your information and transactions are secure.",
   },
   {
     id: "feature-3",
